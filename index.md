@@ -8,6 +8,10 @@
 x="mulearn"
 ```
 
+- [x] start mulearn
+- [x] learn typin
+- [x] keep on learnin
+
 
 
 
